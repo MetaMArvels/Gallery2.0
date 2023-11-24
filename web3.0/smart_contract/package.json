@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@openzeppelin/contracts": "^4.6.0",
+    "ethereum-waffle": "^4.0.10",
+    "hardhat": "^2.19.1"
+  },
+  "dependencies": {
+    "alchemy-sdk": "^3.0.0"
+  }
+}
